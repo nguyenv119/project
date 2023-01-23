@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "watch:scss": "node-sass -w css/page1.scss"
+  },
   "dependencies": {
     "gsap": "^3.11.3",
     "three": "^0.145.0"
